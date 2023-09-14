@@ -1,0 +1,4 @@
+1) In non-Agile workflows, the role of a "Product Owner" is usually fulfilled by a Project Manager. The Product Owner in Agile development
+    is responsible for directing the team and ensuring the development process is capturing all the intended value of the product. This
+    requires the Product Owner to be regularly checking in with customers/stakeholders and making sure the work the team is doing is aligned
+    with their needs.
