@@ -5,3 +5,7 @@
 2) A Scrum Master is typically much more "hands on" than a Product Owner, as they are the ones managing the execution of the Agile methodology
     and leading development within the Agile framework. In comparison, the Product Owner is less involved in the actual development of the product
     and is more focused on gathering requirements from stakeholders and making sure the work the team is doing is relevant.
+3) The first type of sprint meeting is the planning meeting, where the team decides what stores they will work on this sprint and assigns the stories
+    to teams. The second type is the daily standup, which is a 10 minute meeting where each team gives updates on what they're accomplished and
+    present their plans for upcoming work. Finally, there is the retrospective meeting, where the team discusses the work they completed and moves
+    any unfinished tasks into the backlog once again.
