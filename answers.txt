@@ -9,3 +9,9 @@
     to teams. The second type is the daily standup, which is a 10 minute meeting where each team gives updates on what they're accomplished and
     present their plans for upcoming work. Finally, there is the retrospective meeting, where the team discusses the work they completed and moves
     any unfinished tasks into the backlog once again.
+4)
+    Epic: A large, broad work goal that can be broken up into several individual stores
+    Story: A fundamental software requirement for the system that can be described in only a few sentences
+    Bug: An unexpected issue that needs to be fixed
+    Task: An actual actionable goal for the team working towards requirements, unlike stories which represent broader requirements without
+        specifying the actions taken to achieve said requirements
