@@ -2,3 +2,6 @@
     is responsible for directing the team and ensuring the development process is capturing all the intended value of the product. This
     requires the Product Owner to be regularly checking in with customers/stakeholders and making sure the work the team is doing is aligned
     with their needs.
+2) A Scrum Master is typically much more "hands on" than a Product Owner, as they are the ones managing the execution of the Agile methodology
+    and leading development within the Agile framework. In comparison, the Product Owner is less involved in the actual development of the product
+    and is more focused on gathering requirements from stakeholders and making sure the work the team is doing is relevant.
